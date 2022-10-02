@@ -1,0 +1,5 @@
+Write a Python boto3 script to export IAM User Details into a csv file.
+
+
+
+CSV file content is like IAM User Name, User Id, User ARN, User Creation Date, Attached Policies and Groups associated for IAM Users

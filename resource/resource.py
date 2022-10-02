@@ -1,3 +1,4 @@
+# Demonstrate boto3 resource object
 import boto3
 
 aws_mag_con = boto3.session.Session(profile_name="default")
